@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Singh Chouhan</h1>
 
-<!--
-**adityasinghchauhan626-pixel/adityasinghchauhan626-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 B.Tech CSE (AI) Student | ☕ Java Developer | 🧠 Future Software Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityasinghchauhan626-pixel&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Developer+in+Progress+☕;Learning+OOP+%7C+DSA+%7C+Problem+Solving;Building+My+Logic+One+Line+At+A+Time;Code.+Learn.+Build.+Repeat.🚀" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```java
+public class AdityaSinghChouhan {
+
+    String role = "B.Tech CSE (AI) Student";
+    String[] currentlyLearning = {
+        "Java",
+        "Object Oriented Programming",
+        "Data Structures",
+        "Problem Solving"
+    };
+
+    String goal = "Become a Skilled Software Engineer 🚀";
+
+    public void developerJourney() {
+        while (true) {
+            learn();
+            practice();
+            build();
+            improve();
+        }
+    }
+}
