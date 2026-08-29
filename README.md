@@ -20,3 +20,12 @@
 
 </p>
 </p>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityasinghchauhan626-pixel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasinghchauhan626-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
