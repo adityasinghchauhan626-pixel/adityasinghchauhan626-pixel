@@ -60,7 +60,6 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinghchauhan626-pixel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasinghchauhan626-pixel&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 </p>
-
 
