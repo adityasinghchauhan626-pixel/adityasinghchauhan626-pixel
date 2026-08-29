@@ -8,3 +8,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer+%F0%9F%92%BB;DSA+Learner+%F0%9F%A7%A0;Building+Projects+%F0%9F%9A%80;Future+Software+Engineer+%E2%9A%A1;Welcome+to+my+GitHub!+%F0%9F%91%8B"/>
 </p>
+
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  🎓 B.Tech Student &nbsp; | &nbsp;
+  ☕ Java Developer &nbsp; | &nbsp;
+  🧠 DSA Learner &nbsp; | &nbsp;
+  🚀 Future Software Engineer
+</p>
+
+<p align="center">
+  I love learning new technologies, solving problems,
+  and building projects that turn ideas into reality.
+</p>
