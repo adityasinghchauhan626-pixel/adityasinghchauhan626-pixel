@@ -49,8 +49,3 @@
 </p>
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasinghchauhan626-pixel&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
