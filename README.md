@@ -46,15 +46,3 @@
 </p>
 
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityasinghchauhan626-pixel&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  I love learning new technologies, solving problems,
-  and building projects that turn ideas into reality.
-</p>
-
-
