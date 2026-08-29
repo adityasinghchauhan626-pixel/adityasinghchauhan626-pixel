@@ -37,12 +37,24 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+
+
 </p>
   ☕ Java Developer &nbsp; | &nbsp;
   🧠 DSA Learner &nbsp; | &nbsp;
 
   
   🚀 Future Software Engineer
+</p>
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasinghchauhan626-pixel/adityasinghchauhan626-pixel/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasinghchauhan626-pixel/adityasinghchauhan626-pixel/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/adityasinghchauhan626-pixel/adityasinghchauhan626-pixel/output/github-snake.svg">
+  </picture>
 </p>
 
 
