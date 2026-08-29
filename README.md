@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="./a_wide_futuristic_cyberpunk_sci_fi_banner_design.png"
-       width="100%"
-       alt="Aditya Singh Chauhan - Developer Banner">
-</p>
 
-<p align="center">
-  <img src="./aditya_animated_github_banner.gif" width="100%" alt="Animated GitHub Banner">
-</p>
 
 
 <p align="center">
