@@ -40,7 +40,16 @@
 </p>
   ☕ Java Developer &nbsp; | &nbsp;
   🧠 DSA Learner &nbsp; | &nbsp;
+
+  
   🚀 Future Software Engineer
+</p>
+
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityasinghchauhan626-pixel&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
