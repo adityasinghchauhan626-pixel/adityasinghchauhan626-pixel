@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="./aditya_animated_github_banner.gif" width="100%" alt="Animated GitHub Banner">
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Singh%20Chauhan&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 </p>
 <h1 align="center">
